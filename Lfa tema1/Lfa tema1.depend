@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1679346093 source:c:\users\letit\desktop\lfa tema1\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
