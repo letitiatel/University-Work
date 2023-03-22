@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679517986 source:c:\users\letit\desktop\draftpoo\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
+1679518255 source:c:\users\letit\desktop\poo tema1\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+
