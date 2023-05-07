@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1683473616 source:c:\users\letit\desktop\draftsd2\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+
